@@ -4,4 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "trigger"
 echo "trigger 1"
-
+echo "trigger 2"
